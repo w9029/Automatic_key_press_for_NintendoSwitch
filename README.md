@@ -11,6 +11,6 @@ To do the automatic lottery in Xenoblade2, I changed the code of [Switch-Fightst
 This code using an Arduino, make it emulates a Nintendo Switch controller connected via USB, and then a prepared sequence of press can be executed.
 
 ### Achievements ###
-![](./Assets/xenoblade.gif)
+![](./Assets/xenoblade_new.gif)
 
 
